@@ -147,4 +147,4 @@ if __name__ == "__main__":
 
     # 処理開始
     process_recursive_with_progress(input_path, output_path, args.sigmas, args.gain, args.offset)
-    print("\nすべての処理が完了した。")
+    print("\nすべての処理が完了しました。")
